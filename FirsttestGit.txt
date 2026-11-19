@@ -1,1 +1,3 @@
-Hai This is the first Git File. Created through github directly
+Hai This is the first Git File. Created through github directly---v1.0
+
+Hai This is the second git file. Updated through github directly --- v2.0
